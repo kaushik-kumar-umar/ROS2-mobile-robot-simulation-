@@ -5,7 +5,7 @@ This repository contains a ROS2-based mobile robot simulation developed to explo
 
 Custom ROS2 nodes are implemented to handle robot control and sensor data exchange using standard ROS2 communication mechanisms.
 
-Key Concepts Covered
+- Key Concepts Covered
 
 ROS2 node architecture
 
@@ -17,7 +17,7 @@ Sensor data visualization and debugging
 
 Navigation behavior testing in simulation
 
-Tech Stack
+- Tech Stack
 
 Framework: ROS2
 
@@ -29,11 +29,7 @@ Language: C++ / Python
 
 OS: Ubuntu (Linux)
 
-
-
----
-
-🧪 Features
+- Features
 
 Custom ROS2 nodes for robot control
 
